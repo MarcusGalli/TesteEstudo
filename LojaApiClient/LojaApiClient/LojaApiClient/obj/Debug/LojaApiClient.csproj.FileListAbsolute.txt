@@ -1,0 +1,6 @@
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaApiClient\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe.config
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaApiClient\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaApiClient\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.pdb
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaApiClient\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csprojResolveAssemblyReference.cache
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaApiClient\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.exe
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaApiClient\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.pdb
