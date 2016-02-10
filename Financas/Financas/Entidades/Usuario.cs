@@ -8,7 +8,7 @@ namespace Financas.Entidades
 {
     public class Usuario
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [Required]
         public string Nome { get; set; }

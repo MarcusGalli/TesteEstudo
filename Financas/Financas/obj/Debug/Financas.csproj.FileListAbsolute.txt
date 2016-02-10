@@ -37,3 +37,10 @@ C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\obj\Debug\Financas
 C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\obj\Debug\Financas.pdb
 C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
 C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\Ninject.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\Ninject.Web.Common.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\Ninject.Web.Mvc.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\WebActivatorEx.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\Ninject.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\Ninject.Web.Common.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\Financas\Financas\bin\Ninject.Web.Mvc.xml
