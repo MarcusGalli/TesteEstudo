@@ -4,6 +4,16 @@
             <li>@Html.ActionLink("Home", "Index", "Home")</li>
             <li>@Html.ActionLink("Usuarios", "Index", "Usuario")</li>
             <li>@Html.ActionLink("Movimentacoes", "Index", "Movimentacao")</li>
+
+            <!--Outra forma de verificar se o usuário esta logado seria WebSecurity.IsAuthenticated-->
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li>@Html.ActionLink("Deslogar", "Logout", "Login")</li>
+            }
+            else
+            {
+                <li>@Html.ActionLink("Autenticar", "Index", "Login")</li>                
+            }
         </ul>
     </div>
 </nav>
