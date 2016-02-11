@@ -1,0 +1,66 @@
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\LojaRazor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\LojaRazor.pdb
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Antlr3.Runtime.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\EntityFramework.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Newtonsoft.Json.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Mvc.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Optimization.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Providers.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Razor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\WebGrease.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\EntityFramework.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Newtonsoft.Json.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Mvc.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Razor.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csprojResolveAssemblyReference.cache
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.pdb
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\LojaRazor.dll.config
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\LojaRazor.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\LojaRazor.pdb
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\Antlr3.Runtime.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\EntityFramework.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\Newtonsoft.Json.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Http.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Mvc.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Optimization.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Providers.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Razor.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.WebPages.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\WebGrease.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\EntityFramework.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\Newtonsoft.Json.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Http.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Mvc.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.Razor.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.WebPages.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.xml
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csprojResolveAssemblyReference.cache
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\LojaRazor.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\LojaRazor.pdb
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.resources
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csproj.GenerateResource.Cache
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\bin\en-us\LojaRazor.resources.dll
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.en-us.resources
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\LojaRazor\LojaRazor\obj\Debug\en-us\LojaRazor.resources.dll

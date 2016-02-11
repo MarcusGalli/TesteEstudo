@@ -1,0 +1,1 @@
+C:\_Marcus\_Estudo 2.0\Back end\TesteEstudo\NHibernate\Loja\bin\Debug\Loja.exe.config
